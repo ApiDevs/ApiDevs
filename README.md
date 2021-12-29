@@ -1,17 +1,13 @@
-### Hi there 👋
 
-<!--
-**ApiDevs/ApiDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on -> As an engineering programmer
+- 🌱 I’m currently learning -> Ruby, css, c +, c ++
+- 🤔 I’m looking for help with -> So far nothing
+- 💬 Ask me about -> Java, Html, JavaScript, MongoDB, Redis
+- 📫 How to reach me: sergiodevelopement01@gmail.com
+- 😄 Pronouns: API or Layers
+- ⚡ Fun fact:Just goals for now
 
-Here are some ideas to get you started:
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApiDevs&theme=radical)
