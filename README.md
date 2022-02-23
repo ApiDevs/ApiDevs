@@ -1,8 +1,8 @@
 
 - 🔭 I’m currently working on -> As an engineering programmer
-- 🌱 I’m currently learning -> Ruby, css, c +, c ++
-- 🤔 I’m looking for help with -> So far nothing
-- 💬 Ask me about -> Java, ATS ,JavaScript, MongoDB, Redis
+- 🌱 I’m currently learning -> Ruby, html
+- 🤔 I’m looking for help with -> ....
+- 💬 Ask me about -> Java, ATS , MongoDB, Redis
 - 📫 How to reach me: sergiodevelopement01@gmail.com
 - 😄 Pronouns: API or Layers
 - ⚡ Fun fact:Just goals for now
