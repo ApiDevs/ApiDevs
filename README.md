@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on -> As an engineering programmer
+- 🔭 I’m currently working on -> As an engineering programmer (Ex HeadDeveloper Veax Network)
 - 🌱 I’m currently learning -> Ruby, html
 - 🤔 I’m looking for help with -> ....
 - 💬 Ask me about -> Java, ATS , MongoDB, Redis
